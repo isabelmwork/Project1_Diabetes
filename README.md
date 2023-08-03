@@ -20,3 +20,12 @@ We see a similar situation as in CA, except this time average population and ave
 In an effort to understand why the data isn't showing what we expect, we will use the entirety of the data instead of averaging it.
 In all of these graphs there is a collection of points that are far away from the rest. In each case these points represent Puerto Rico. We will remove these points, and just look at the mainland USA.
 When looking at the entirety of the data the results are different. Not only are the correlations less strong, but population dead by diabetes is now negatively correlated with median household income and population employed.
+
+
+## Resources
+https://fred.stlouisfed.org/series/WPU06380103
+https://ourworldindata.org/grapher/diabetes-prevalence-vs-gdp-per-capita
+https://data.ca.gov/dataset/adults-with-diabetes-per-100-lghc-indicator
+https://catalog.data.gov/dataset/weekly-counts-of-death-by-jurisdiction-and-cause-of-death
+https://github.com/datamade/census
+https://dof.ca.gov/reports/demographic-reports/american-community-survey/#ACS2018x1
